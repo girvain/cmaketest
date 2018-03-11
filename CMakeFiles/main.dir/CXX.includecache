@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gavinross/Documents/cmaketest/includes/Person.h
+iostream
+-
+
+/Users/gavinross/Documents/cmaketest/main.cpp
+iostream
+-
+string
+-
+iostream
+-
+float.h
+-
+string.h
+-
+strstream
+/Users/gavinross/Documents/cmaketest/strstream
+includes/Person.h
+/Users/gavinross/Documents/cmaketest/includes/Person.h
+

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/gavinross/Documents/cmaketest",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -I/Users/gavinross/Documents/cmaketest/include  -O3 -DNDEBUG   -std=gnu++11 -o CMakeFiles/main.dir/main.cpp.o -c /Users/gavinross/Documents/cmaketest/main.cpp",
+  "file": "/Users/gavinross/Documents/cmaketest/main.cpp"
+}
+]
